@@ -1,0 +1,31 @@
+{
+  "name": "secondarymanagementsystem",
+  "version": "1.0.0",
+  "description": "A secondary school management system breeding web/mobile tech to secondary schools.",
+  "main": "root.js",
+  "scripts": {
+    "dev": "nodemon root.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sixpathdev/ssm-system.git"
+  },
+  "keywords": [
+    "ssms",
+    "secondary",
+    "school"
+  ],
+  "author": "Miracle Gabriel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sixpathdev/ssm-system/issues"
+  },
+  "homepage": "https://github.com/sixpathdev/ssm-system#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.8"
+  }
+}
